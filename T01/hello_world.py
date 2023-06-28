@@ -1,0 +1,5 @@
+name = input("What is your name please ?")
+print(name)
+age = input("How old are you ?")
+print("{} \n".format(age))
+print("Hello World!")

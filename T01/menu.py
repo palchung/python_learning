@@ -1,0 +1,5 @@
+print("Please order your three favourite food : ")
+item1 = input("1st food ? ")
+item2 = input("2nd food ? ")
+item3 = input("3rd food ? ")
+print("Order confirmation! You have ordered:\n{}\n{}\n{}".format(item1, item2, item3))
